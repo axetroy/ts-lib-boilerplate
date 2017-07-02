@@ -1,4 +1,6 @@
 # ts-lib-boilerplate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ts-lib-boilerplate.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/ts-lib-boilerplate.svg?branch=master)](https://travis-ci.org/axetroy/ts-lib-boilerplate)
 [![Dependency](https://david-dm.org/axetroy/ts-lib-boilerplate.svg)](https://david-dm.org/axetroy/ts-lib-boilerplate)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
