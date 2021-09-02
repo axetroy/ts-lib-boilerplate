@@ -1,7 +1,6 @@
 # ts-lib-boilerplate
 
 [![Build Status](https://travis-ci.org/axetroy/ts-lib-boilerplate.svg?branch=master)](https://travis-ci.org/axetroy/ts-lib-boilerplate)
-[![Dependency](https://david-dm.org/axetroy/ts-lib-boilerplate.svg)](https://david-dm.org/axetroy/ts-lib-boilerplate)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
